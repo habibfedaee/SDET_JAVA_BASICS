@@ -1,6 +1,6 @@
 package com.syntax.class02;
 
-import org.omg.Messaging.SyncScopeHelper;
+
 
 import javax.swing.plaf.synth.SynthSliderUI;
 import java.awt.*;
